@@ -106,7 +106,7 @@ Expected: 🔴 RED with multiple findings
 
 ## Why I built this
 
-I'm Razi Dolev. I build AI agent systems for businesses (in Israel and beyond), run Google Ads campaigns, and consult on digital marketing. I also write in Hebrew about AI for businesses on my blog at https://razi.co.il.
+I'm Razi Dolev. I build AI agent systems for businesses (in Israel and beyond), run Google Ads campaigns, and consult on digital marketing. I also write in Hebrew about AI for businesses on [my blog](https://razi.co.il).
 
 After Check Point published the April 2026 research on AI coding tool vulnerabilities, I needed a quick way to scan repos before opening them. This is the tool I built for myself, sharing publicly because the threat affects everyone using these tools.
 
@@ -118,7 +118,7 @@ The scan logic is in plain markdown - read it before you install. That's the poi
 
 If you want help building AI agent systems for your business (marketing automation, content workflows, lead generation), running Google Ads campaigns, or digital marketing consulting, get in touch via [razi.co.il](https://razi.co.il).
 
-For Hebrew insights on AI for businesses, [subscribe to the newsletter](https://razi.co.il/הירשמו-לרשימת-התפוצה/).
+For Hebrew insights on AI for businesses, [subscribe to the newsletter](https://razi.co.il/%D7%94%D7%99%D7%A8%D7%A9%D7%9E%D7%95-%D7%9C%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%94%D7%AA%D7%A4%D7%95%D7%A6%D7%94/).
 
 ---
 
