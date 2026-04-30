@@ -114,6 +114,14 @@ The scan logic is in plain markdown - read it before you install. That's the poi
 
 ---
 
+## Get in touch
+
+If you want help building AI agent systems for your business (marketing automation, content workflows, lead generation), running Google Ads campaigns, or digital marketing consulting, get in touch via [razi.co.il](https://razi.co.il).
+
+For Hebrew insights on AI for businesses, [subscribe to the newsletter](https://razi.co.il/הירשמו-לרשימת-התפוצה/).
+
+---
+
 ## License
 
 MIT. See `LICENSE`.
